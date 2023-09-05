@@ -12,7 +12,7 @@
         <li>Lesson</li>
     </ul>
   <div>
-    <img src="https://github.com/Mikhail-068/Android_Lesson_6_Speech_to_text/assets/82748554/a1686863-8285-44c1-a2de-02b40e99b5ee" alt="" height="350">
+    <img src="https://github.com/Mikhail-068/Android_Lesson_6_Speech_to_text/assets/82748554/50c1d64c-dc41-4e1b-b815-9f4099b3fe1f" alt="" height="350">
   </div>
   <br>
    <div>
