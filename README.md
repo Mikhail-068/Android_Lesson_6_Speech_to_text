@@ -1,10 +1,25 @@
 # Преобразование речи в текст
-> При загрузке данного репозитория вы найдете ветку `main` c основным кодом из лекции и 3 ветки с разбором ДЗ (Lite, Pro, UltraPro).
-
 <body>
   <div>
     <img src="https://github.com/Mikhail-068/Android_Lesson_6_Speech_to_text/assets/82748554/cca175ec-1550-4808-b032-47a6338747f4" alt="" height="300">
   </div>
+
+  > При загрузке данного репозитория текущая ветка с разбором задания `Ultra Pro`, так же вы найдете 3 ветки с разбором ДЗ Lite и Pro + <b>Lesson</b> код с лекции
+    <ul>
+        <li>Ultra Pro</li>
+        <li>Pro</li>
+        <li>Lite</li>
+        <li>Lesson</li>
+    </ul>
+  <div>
+    <img src="https://github.com/Mikhail-068/Android_Lesson_6_Speech_to_text/assets/82748554/a1686863-8285-44c1-a2de-02b40e99b5ee" alt="" height="350">
+  </div>
+  <br>
+   <div>
+    <img src="https://github.com/Mikhail-068/Android_Lesson_6_Speech_to_text/assets/82748554/32da48cb-03f7-4715-8602-04f830bf8266" alt="" height="300">
+  </div>
+
+
 <br>
 <br>
 <br>
@@ -39,5 +54,4 @@
         </tr>
     </table>
 </body>
-
 
